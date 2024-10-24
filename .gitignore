@@ -1,0 +1,24 @@
+# Logs
+*.log
+
+# Environment Files
+.env
+
+# Cache Files
+/cache
+
+# PHP Temporary Files
+*.tmp
+*.php~
+
+# HTML/CSS/JavaScript Build Artifacts
+/dist
+/build
+*.css.map
+*.js.map
+
+# IDE Specifics
+.code-workspace
+.vscode/
+.idea/
+*.sublime-workspace
